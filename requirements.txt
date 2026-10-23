@@ -1,0 +1,3 @@
+# Love Heart uses pure Python + Tkinter standard library (no required dependencies)
+# Optional dependency for capturing screenshots (S key):
+pillow>=9.5.0
