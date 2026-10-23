@@ -1,0 +1,12 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+    "python.terminal.executeInFileDir": true,
+    "python.terminal.activateEnvironment": true,
+    "code-runner.respectSheBang": false,
+    "code-runner.runInTerminal": true,
+    "code-runner.terminalRoot": "",
+    "code-runner.executorMap": {
+        "python": "python -u"
+    },
+    "terminal.integrated.tabs.enabled": true
+}
